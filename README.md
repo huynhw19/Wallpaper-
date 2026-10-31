@@ -34,7 +34,7 @@ Wallpaper- is a simple repository for high-quality wallpaper backgrounds that wo
 
 ## Installation / Setup Instructions
 
-There is no complex installer for this repository because it is a wallpaper asset collection. To use the wallpapers:
+There is no complex installer for this repository because it is a wallpaper asset collection. To use the wallpapers,open this link: https://huynhw.itch.io/wallpaper
 
 ### Option 1: Download directly
 
